@@ -1,17 +1,9 @@
-# basketball_counter_app
+This is a very simple app, just getting my hands used to the use of BLoC state-management
+here is a screenshot and a speedy screen recording of the app
 
-A new Flutter project.
+<img width="318" alt="Screenshot 2024-04-11 at 1 08 12 AM" src="https://github.com/mohamedmahmoud95/basketball_counter_app_using_flutter/assets/46673407/8eb6f041-d44c-4cfe-bd66-7f64f59e358f">
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Uploading Screen Recording 2024-04-11 at 1.07.39 AM.mov…
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# basketball_counter_app_using_flutter
