@@ -18,11 +18,12 @@ class BasketballApp extends StatefulWidget {
 class _BasketballAppState extends State<BasketballApp> {
   @override
   Widget build(BuildContext context) {
-    return BlocProvider(create: (context) => CounterCubit(),
-    child: MaterialApp(
+    return  MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: PointsCounter(),
-    ),
+      home: BlocProvider(create: (context) => CounterCubit(),
+    child:
+    PointsCounter(),
+      ),
     );
   }
 }
