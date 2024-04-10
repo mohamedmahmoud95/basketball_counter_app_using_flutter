@@ -26,9 +26,10 @@ class PointsCounter extends StatelessWidget {
                     height: 500,
                     child: Column(
                       mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+                      crossAxisAlignment: CrossAxisAlignment.center,
                       children: [
                         const Text(
-                          'Team ffA',
+                          'Team A',
                           style: TextStyle(
                             fontSize: 32,
                           ),
